@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlite3
+plotly
+requests
+python-dateutil
+schedule
+pydantic
+email-validator
